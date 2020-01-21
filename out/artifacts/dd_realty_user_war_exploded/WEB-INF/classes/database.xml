@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+    <entry key="DB_USER">root</entry>
+    <entry key="DB_PASS">pass</entry>
+    <entry key="DB_HOST">127.0.0.1</entry>
+    <entry key="DB_PORT">3306</entry>
+    <entry key="DB_NAME">table</entry>
+</properties>
+
+
+
+
+
+
+

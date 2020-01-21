@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration packages="com.wywy.log4j.appender">
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%highlight{%d %5p [%c] %style{%m%n}{white}}{FATAL=white, ERROR=red, WARN=blue, INFO=yellow, DEBUG=green, TRACE=blue}"/>
+        </Console>
+    </Appenders>
+
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="console"/>
+        </Root>
+    </Loggers>
+</Configuration>
+
