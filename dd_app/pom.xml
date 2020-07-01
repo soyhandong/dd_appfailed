@@ -11,7 +11,7 @@
 
     <properties>
         <spring.version>4.3.3.RELEASE</spring.version>
-        <log4j.version>2.8.1</log4j.version>
+        <log4j.version>2.13.3</log4j.version>
         <fluency.version>2.1.0</fluency.version>
         <!--<java-version>1.8</java-version>
         <maven.test.skip>true</maven.test.skip>-->
